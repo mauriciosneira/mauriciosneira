@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mauriciosneira
 - 👀 I’m interested in Cloud Developing, Firebase, Vuejs, Nodejs
-- 🌱 I’m currently learning Fluter and GraphQl
+- 🌱 I’m currently learning Python and GraphQl
 - 💞️ I’m looking to collaborate on Pedidosya
 - 📫 How to reach me mauriciosneira.com
 
